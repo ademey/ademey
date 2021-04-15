@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ademey
-- 👀 I’m an Interactive Architect of React front-ends
-- 🌱 I’m mechanical keyboard enthusiast. Designer of the Terrazzo keyboard.
+- 👀 I’m an Sr. Interactive Software Manager at [Agot.ai](https://www.agot.ai/)
+- 🌱 I’m mechanical keyboard enthusiast. Designer of the Terrazzo and Cervello keyboards.
 
 <!---
 ademey/ademey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
